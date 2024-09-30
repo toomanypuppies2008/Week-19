@@ -1,0 +1,20 @@
+main {
+  margin: 0 auto;
+  width: 90vw;
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+}
+
+div {
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+  font-size: 1.8rem;
+  color: #b90c0c;
+}
